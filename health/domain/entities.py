@@ -1,5 +1,5 @@
 """Domain entities for health monitoring."""
-from _datetime import datetime
+from datetime import datetime
 
 
 class HealthRecord:
